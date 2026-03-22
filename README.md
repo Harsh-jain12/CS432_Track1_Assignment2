@@ -148,10 +148,11 @@ See `API_DOCS_TO_RUN.md` for ready-to-run curl commands for all 9 roles.
 
 ## Video Demonstrations
 
-| Video | Link |
-|-------|------|
-| 🎥 UI Walkthrough | https://drive.google.com/file/d/17jF_sckKu7TVWN-sXxK3fnIFQrToO_9-/view |
-| 🎥 API Explanation | https://drive.google.com/file/d/1nB9LWBbdmK4lKFyRkx5sD2vhiIeqhGTr/view |
+| Video | Module | Link |
+|-------|--------|------|
+| 🎥 B+ Tree Implementation Walkthrough | Module A | https://drive.google.com/file/d/1p_yqEF5ky3ERx-uxMaZBg4IHQqrLfyUM/view?usp=drivesdk |
+| 🎥 UI Walkthrough | Module B | https://drive.google.com/file/d/17jF_sckKu7TVWN-sXxK3fnIFQrToO_9-/view |
+| 🎥 API Explanation | Module B | https://drive.google.com/file/d/1nB9LWBbdmK4lKFyRkx5sD2vhiIeqhGTr/view |
 
 ---
 
