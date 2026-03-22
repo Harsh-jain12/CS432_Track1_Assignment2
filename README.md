@@ -1,13 +1,16 @@
 # CS 432 — Databases | Assignment 2 — Track 1
 
-**Team Members:**
-| Name | Roll Number |
-|------|-------------|
-| Harsh Jain | 22110093 |
-| Shreyas Dharmatti | 21110202 |
-| Sneha Gautam | 22110255 |
-| Anushika Mishra | 22110029 |
-| Kandarp Jani | 22110104 |
+## Team Members & Contributions
+
+| Name | Roll Number | Module | Contribution |
+|------|-------------|--------|--------------|
+| Harsh Jain | 22110093 | Module B | UI & API development; authored the Optimisation Implementation Report (schema design, indexing strategy, benchmarking) |
+| Shreyas Dharmatti | 21110202 | Module B | UI & API development; recorded and presented the video explanations for UI walkthrough and API demonstration |
+| Sneha Gautam | 22110255 | Module A | B+ Tree implementation, BruteForceDB, performance benchmarking, and Jupyter Notebook report |
+| Anushika Mishra | 22110029 | Module A | B+ Tree implementation, BruteForceDB, performance benchmarking, and Jupyter Notebook report |
+| Kandarp Jani | 22110104 | Module A | Module A testing, validation, and recorded the Module A video walkthrough |
+
+---
 
 **Course:** CS 432 Databases
 **Instructor:** Prof. Yogesh K Meena
