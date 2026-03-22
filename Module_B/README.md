@@ -69,13 +69,11 @@ Make sure the following are installed on your system before proceeding:
 
 ---
 
-## Step 1 — Clone the Repository
-
+1. **Clone the repository:**
 ```bash
-git clone https://github.com/Shreyas-Dharmatti/dispensary-management.git
-cd dispensary-management
+   git clone https://github.com/Harsh-jain12/CS432_Track1_Assignment2.git
+   cd CS432_Track1_Assignment2/Module_B/app
 ```
-
 ---
 
 ## Step 2 — Set Up the Database
